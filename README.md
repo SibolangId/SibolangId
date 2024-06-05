@@ -1,6 +1,6 @@
-## SibolangId
+# SibolangId
 
-# Team Members
+### Team Members
 
 |  User ID  |            Name             | Person in Charge |             University              |
 |-----------|-----------------------------|------------------|-------------------------------------|
