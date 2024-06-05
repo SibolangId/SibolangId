@@ -10,27 +10,27 @@ an optimal experience. Make Sibolang your go-to guide for your next adventure!
 
 <table>
   <tr style="background-color:#a5d8e4; color:#000;">
-    <th>UserID</th>
+    <th>User ID</th>
     <th>Name</th>
     <th>Person in Charge</th>
     <th>University</th>
   </tr>
   <tr>
-    <td style="background-color:#fff; color:#333;">D2024Y052</td>
-    <td style="background-color:#fff; color:#333;">Rizki Nur'Allam</td>
-    <td style="background-color:#fff; color:#333;">Back-End</td>
-    <td style="background-color:#fff; color:#333;">UIN Sunan Kalijaga Yogyakarta</td>
+    <td>D2024Y052</td>
+    <td>Rizki Nur'Allam</td>
+    <td>Back-End</td>
+    <td>UIN Sunan Kalijaga Yogyakarta</td>
   </tr>
   <tr>
-    <td style="background-color:#fff; color:#333;">D2024Y077</td>
-    <td style="background-color:#fff; color:#333;">Nico Bintang Sihana</td>
-    <td style="background-color:#fff; color:#333;">Front-end</td>
-    <td style="background-color:#fff; color:#333;">UIN Sunan Kalijaga Yogyakarta</td>
+    <td>D2024Y077</td>
+    <td>Nico Bintang Sihana</td>
+    <td>Front-end</td>
+    <td>UIN Sunan Kalijaga Yogyakarta</td>
   </tr>
   <tr>
-    <td style="background-color:#fff; color:#333;">D2024Y034</td>
-    <td style="background-color:#fff; color:#333;">Daniel Nur Sandy Bayu Nata</td>
-    <td style="background-color:#fff; color:#333;">Front-end</td>
-    <td style="background-color:#fff; color:#333;">Amikom University Yogyakarta</td>
+    <td>D2024Y034</td>
+    <td>Daniel Nur Sandy Bayu Nata</td>
+    <td>Front-end</td>
+    <td>Amikom University Yogyakarta</td>
   </tr>
 </table>
